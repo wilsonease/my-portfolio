@@ -22,7 +22,7 @@ export const Services = () => {
                     </h3>
 
                     <div className='skills--content-skills-summary'>
-                        Hello there! I'm Robert Junior. I specialize in web design and development, and I'm deeply passionate and committed to my craft. With 20 years of experience as a professional graphic designer
+                        Hello there! I'm Wilson Adejoh. I specialize in web design and development, and I'm deeply passionate and committed to my craft. With 1 year so far of experience as a professional frontend developer.
                     </div>
 
                     <div className='skills--content-skills-container'>
