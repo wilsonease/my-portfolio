@@ -1,0 +1,24 @@
+.milestones--container{
+background-color: var(--primary);
+color: var(--white);
+padding: 60px 0;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.milestones--header{
+text-align: center;
+}
+
+.milestones--title{
+text-align: center;
+font-size: 50px;
+max-width: 600px;
+margin-bottom: 60px;
+}
+
+.milestones--list{
+    display: flex;
+    gap: 30px;
+}

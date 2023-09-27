@@ -1,0 +1,6 @@
+.project{
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border: solid 3px var(--gray-200);
+}

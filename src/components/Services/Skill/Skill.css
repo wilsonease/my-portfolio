@@ -1,0 +1,22 @@
+.skill{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.skill--name{
+    
+}
+
+.skill--percentage{
+    background-color: var(--gray-300);
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 17px;
+}
+
+.skill--percentage-filled{
+    background-color: var(--primary);
+    border-radius: 10px;
+    height: 17px;
+
+}

@@ -1,0 +1,53 @@
+.about--container{
+    display: flex;
+    gap: 100px;
+    padding: 100px 0;
+}
+
+.about--welcome{
+    flex: 1;
+    padding: 20px 0;
+}
+
+.about--profile-pic{
+    flex: 1;
+    display: flex;
+    justify-content: end;
+    border: solid 4px var(--gray-200);
+    overflow: hidden;
+    border-radius: 100%;
+}
+
+.about--profile-pic img{
+    width: 100%;
+    height: auto;
+    margin-top: -20px;
+    transform: rotate(-32deg);
+    background-image: url("../../assets/img/profile-pic2.jpg");
+    
+}
+
+.about--welcome-msg{
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.about--welcome-intro{
+    font-size: 50px;
+}
+
+.about--welcome-intro-name{
+    font-size: 60px;
+    color: var(--primary);
+}
+
+.about--welcome-mission{
+    margin-top: 10px;
+}
+
+.about--call-to-action{
+    display: flex;
+     gap: 20px;
+     margin-top: 50px;
+}

@@ -1,0 +1,28 @@
+.header{
+    height: 113px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 25px;
+    font-weight: 900;
+    color: var(--gray-500);
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 120px;
+}
+
+.nav > ul {
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+}

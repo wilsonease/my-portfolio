@@ -1,0 +1,39 @@
+:root {
+  --primary: #0077FF;
+  --gray-500: #333333;
+  --gray-200: #F8F8F8;
+  --gray-300: #eeeeee;
+  --white: #ffffff;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+@font-face {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  src: url("./assets/font/ZenKakuGothicAntique-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Work Sans', sans-serif;
+  src: url("./assets/font/WorkSans-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body, h1, h2, h3, h4, h5, h6{
+  font-family: 'Work Sans', sans-serif;
+  padding: 0;
+  margin: 0;
+  line-height: unset;
+}
+
+img{
+  max-width: 100%;
+}

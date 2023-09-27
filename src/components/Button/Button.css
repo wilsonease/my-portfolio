@@ -1,0 +1,21 @@
+.btn{
+    height: 50px;
+    border-radius: 50px;
+    background-color: var(--primary);
+    color: var(--white);
+    padding: 0 33px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+}
+
+.btn-primary{
+    background-color: var(--primary);
+    color: var(--white);
+}
+
+.btn-secondary{
+    background-color: var(--white);
+    color: var(--primary);
+    border: solid 1px var(--primary);
+}
